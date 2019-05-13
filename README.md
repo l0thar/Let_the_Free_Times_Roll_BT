@@ -54,3 +54,5 @@ These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS 
 ## June 2018
 Initial Creation.
 
+## May 2019
+Updated by klambert
